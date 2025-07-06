@@ -1,0 +1,137 @@
+#tbar {
+    width: 100.95%;
+    height: 70px;
+    margin-top: -10px;
+    margin-left: -10px;
+    background-color: black;
+  }
+#logo {
+    margin-left: -286px;
+    width: 289px;
+    height: 384px;
+    position: absolute;
+    margin-top: 93px;
+}
+#tle {
+    margin-left: 50px;
+    color: aliceblue;
+    width: 50%;
+    position: absolute;
+    margin-top: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#logout {
+    position: absolute;
+    font-size: 25px;
+    margin-left: 94%;
+    margin-top: 40px;
+    border: none;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+}
+#logout:hover {
+    color: red;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+#drawer {
+    position: absolute;
+    width: 15%;
+    margin-left: -10px;
+    height: 65%;
+    background-color: black;
+}
+#home {
+    padding-top: 10px;
+    border: none;
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+#home:hover {
+    color: red;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+#search {
+    padding-top: 10px;
+    border: none;
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+#search:hover {
+    color: red;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+#add{
+    padding-top: 10px;
+    border: none;
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+#add:hover{
+    color: red;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+#update {
+    padding-top: 10px;
+    border: none;
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+#update:hover {
+    color: red;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+#delete {
+    padding-top: 10px;
+    border: none;
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+#delete:hover {
+    color: red;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+#menu {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: whitesmoke;
+    margin-left: 90px;
+}
+#marq{
+    background-color: black;
+    color: white;
+}
+#btn{
+    width: 300px;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: rgb(238, 243, 248);
+    border: none;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+#btn:hover{
+    background-color: black;
+    color: whitesmoke;
+}
